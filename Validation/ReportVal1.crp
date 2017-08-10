@@ -1,0 +1,40 @@
+chiasma internal report, file_version=1
+[header]
+source	authority_id	creation_time
+Chiasma 1.0.3048.20517	27911	2008-11-09 10:11:30
+[settings]
+unit	inheritanceTest	limitChr1-22
+Individual	True	False
+[plates]
+result_plate_id
+482603
+482605
+[controls]
+individual_id	XX	YY	XY	NA	duplfail	dupltest	inhfail	inhtest
+483232	1	2	1	1	0	4	0	0
+483233	0	3	1	1	0	4	0	0
+483234	0	1	2	2	1	4	1	2
+483235	0	2	2	1	0	4	0	5
+483236	0	2	2	1	0	4	0	3
+483237	1	1	1	2	1	4	1	2
+[items]
+individual_id	XX	YY	XY	NA	duplfail	dupltest	inhfail	inhtest
+483227	4	0	0	1	1	4	0	2
+483228	0	2	1	2	0	4	1	4
+483229	1	3	1	0	0	5	1	7
+483230	1	1	1	2	2	5	0	3
+483231	0	0	0	5	0	0	0	0
+[markers]
+marker_id	XX	YY	XY	NA	duplfail	dupltest	inhfail	inhtest	ctrlinhfail	ctrlinhtest
+488314	1	2	1	1	1	5	0	1	0	0
+488315	0	2	0	3	2	4	0	1	2	2
+488316	2	1	1	1	1	4	0	1	0	2
+488317	2	2	0	1	0	4	1	2	0	1
+488318	0	0	0	5	0	0	0	0	0	0
+[results]
+individual_id	marker_id=488314	marker_id=488315	marker_id=488316	marker_id=488317	marker_id=488318
+483227	C/C	N/A	T/T	C/C	N/A
+483228	A/C	N/A	A/A	N/A	N/A
+483229	A/A	G/G	T/T	G/G	N/A
+483230	N/A	G/G	N/A	C/G	N/A
+483231	N/A	N/A	N/A	N/A	N/A

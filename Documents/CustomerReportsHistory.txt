@@ -1,0 +1,23 @@
+v1.0 -	<Never released>
+
+v1.1 -	Created
+
+v1.2 -	Changed the accreditation text to conform with the rules of SWEDAC.
+
+	Set which elements are exported to data files such as csv files and
+	how their names are defined.
+
+
+
+v2.0 -	All parts were put together into one report, with the possibility to
+	not load data for the SNP marker table.
+
+	Options for setting background colors in the individual and SNP marker
+	tables based on user-defined limits were added.
+
+9/12 2013
+v2.7 -	The report server is running on the new server mm-wchs001. The solution CustomerReports2.sln 
+	is upgraded to Visual Studio 2012. Reports are exported to Excel format .xlsx instead of .xls.
+	The formatting commands to make cells yellow and red in markers table have been changed in 
+	order to compile with the new environment. Number of rows per excel sheet is changed from 
+	65k to 1M. 

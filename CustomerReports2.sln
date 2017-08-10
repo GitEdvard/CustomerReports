@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "CustomerReports2", "CustomerReports2\CustomerReports2.rptproj", "{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://mm-wchs001:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CustomerReports2\\CustomerReports2.rptproj
+		SccProjectName1 = CustomerReports2
+		SccLocalPath1 = CustomerReports2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Production|Default = Production|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.Debug|Default.ActiveCfg = Debug
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.Debug|Default.Build.0 = DebugLocal
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.Debug|Default.Deploy.0 = DebugLocal
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.DebugLocal|Default.Build.0 = DebugLocal
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.Production|Default.ActiveCfg = Production
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.Production|Default.Build.0 = Production
+		{C7562D4C-B2ED-4221-A6FB-70A60C3523C9}.Production|Default.Deploy.0 = Production
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
